@@ -87,29 +87,23 @@ platform based on Android Mobile.
 </div>
 </div>
 
-<div class="simple-paper-box" markdown="1">
-
+<ul class="simple-paper-list">
+<li>
 [WebSRC: A Dataset for Web-Based Structural Reading Comprehension](https://aclanthology.org/2021.emnlp-main.343/)<br>
 Xingyu Chen, Zihan Zhao, Lu Chen, JiaBao Ji, **Danyang Zhang**, Ao Luo, Yuxuan Xiong, Kai Yu<br>
 EMNLP 2021 | [**Project**](https://x-lance.github.io/WebSRC/) <span class="show_paper_citations" data="CMHormkAAAAJ:qjMakFHDy7sC"></span>
-
-</div>
-
-<div class="simple-paper-box" markdown="1">
-
+</li>
+<li>
 [Rotation-robust Intersection over Union for 3D Object Detection](https://link.springer.com/chapter/10.1007/978-3-030-58565-5_28)<br>
 Yu Zheng, **Danyang Zhang**, Sinan Xie, Jiwen Lu, Jie Zhou<br>
 ECCV 2020 <span class="show_paper_citations" data="CMHormkAAAAJ:u5HHmVD_uO8C"></span>
-
-</div>
-
-<div class="simple-paper-box"  markdown="1">
-
+</li>
+<li>
 [COIN: A Large-scale Dataset for Comprehensive Instructional Video Analysis](https://openaccess.thecvf.com/content_CVPR_2019/html/Tang_COIN_A_Large-Scale_Dataset_for_Comprehensive_Instructional_Video_Analysis_CVPR_2019_paper.html)<br>
 Yansong Tang, Dajun Ding, Yongming Rao, Yu Zheng, **Danyang Zhang**, Lili Zhao, Jiwen Lu, Jie Zhou<br>
 CVPR 2019 | [**Project**](https://coin-dataset.github.io/) <span class="show_paper_citations" data="CMHormkAAAAJ:u-x6o8ySG0sC"></span>
-
-</div>
+</li>
+</ul>
 
 - [Learning from Temporal Spatial Cubism for Cross-Dataset Skeleton-based Action Recognition](https://dl.acm.org/doi/10.1145/3472722). Yansong Tang, Xingyu Liu, Xumin Yu, Danyang Zhang, Jiwen Lu, Jie Zhou. TOMM 2022.
 - [Uncertainty-Aware Score Distribution Learning for Action Quality Assessment](https://openaccess.thecvf.com/content_CVPR_2020/html/Tang_Uncertainty-Aware_Score_Distribution_Learning_for_Action_Quality_Assessment_CVPR_2020_paper.html). Yansong Tang, Zanlin Ni, Jiahuan Zhou, Danyang Zhang, Jiwen Lu, Ying Wu, Jie Zhou. CVPR 2020.

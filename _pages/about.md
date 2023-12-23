@@ -87,7 +87,7 @@ platform based on Android Mobile.
 </div>
 </div>
 
-<div class="paper-box" markdown="1">
+<div class="simple-paper-box" markdown="1">
 
 [WebSRC: A Dataset for Web-Based Structural Reading Comprehension](https://aclanthology.org/2021.emnlp-main.343/)
 
@@ -96,17 +96,17 @@ EMNLP 2021 | [**Project**](https://x-lance.github.io/WebSRC/) <span class="show_
 
 </div>
 
-<div class="paper-box" markdown="1">
+<div class="simple-paper-box" markdown="1">
 
 [Rotation-robust Intersection over Union for 3D Object Detection](https://link.springer.com/chapter/10.1007/978-3-030-58565-5_28)
 
 Yu Zheng, **Danyang Zhang**, Sinan Xie, Jiwen Lu, Jie Zhou
 
-ECCV <span class="show_paper_citations" data="CMHormkAAAAJ:u5HHmVD_uO8C"></span>
+ECCV 2020 <span class="show_paper_citations" data="CMHormkAAAAJ:u5HHmVD_uO8C"></span>
 
 </div>
 
-<div class="paper-box"  markdown="1">
+<div class="simple-paper-box"  markdown="1">
 
 [COIN: A Large-scale Dataset for Comprehensive Instructional Video Analysis](https://openaccess.thecvf.com/content_CVPR_2019/html/Tang_COIN_A_Large-Scale_Dataset_for_Comprehensive_Instructional_Video_Analysis_CVPR_2019_paper.html)
 

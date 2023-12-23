@@ -50,8 +50,7 @@ both.
 
 [Large Language Models Are Semi-Parametric Reinforcement Learning Agents](https://openreview.net/forum?id=ZcJa1R6j3v)
 
-**Danyang Zhang, Lu Chen, Situo Zhang, Hongshen Xu, Zihan Zhao, Kai Yu
-
+**Danyang Zhang, Lu Chen, Situo Zhang, Hongshen Xu, Zihan Zhao, Kai Yu \\
 NeurIPS 2023 | [**Code**](https://github.com/OpenDFM/Rememberer)
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
@@ -79,8 +78,7 @@ NeurIPS 2023 | [**Code**](https://github.com/OpenDFM/Rememberer)
 
 [Mobile-Env: An Evaluation Platform and Benchmark for Interactive Agents in LLM Era](https://arxiv.org/abs/2305.08144)
 
-**Danyang Zhang**, Lu Chen, Zihan Zhao, Ruisheng Cao, Kai Yu
-
+**Danyang Zhang**, Lu Chen, Zihan Zhao, Ruisheng Cao, Kai Yu \\
 [**Project**](https://github.com/X-LANCE/Mobile-Env) | [**Task Set**](https://huggingface.co/datasets/zdy023/WikiHow-taskset)
 
 We designed an easily-extensible, adaptable, and close-to-reality interaction
@@ -94,8 +92,7 @@ platform based on Android Mobile.
 
 [WebSRC: A Dataset for Web-Based Structural Reading Comprehension](https://aclanthology.org/2021.emnlp-main.343/)
 
-Xingyu Chen, Zihan Zhao, Lu Chen, JiaBao Ji, **Danyang Zhang**, Ao Luo, Yuxuan Xiong, Kai Yu
-
+Xingyu Chen, Zihan Zhao, Lu Chen, JiaBao Ji, **Danyang Zhang**, Ao Luo, Yuxuan Xiong, Kai Yu \\
 EMNLP 2021 | [**Project**](https://x-lance.github.io/WebSRC/) <span class="show_paper_citations" data="CMHormkAAAAJ:qjMakFHDy7sC"></span>
 
 </div>
@@ -106,8 +103,7 @@ EMNLP 2021 | [**Project**](https://x-lance.github.io/WebSRC/) <span class="show_
 
 [Rotation-robust Intersection over Union for 3D Object Detection](https://link.springer.com/chapter/10.1007/978-3-030-58565-5_28)
 
-Yu Zheng, **Danyang Zhang**, Sinan Xie, Jiwen Lu, Jie Zhou
-
+Yu Zheng, **Danyang Zhang**, Sinan Xie, Jiwen Lu, Jie Zhou \\
 ECCV <span class="show_paper_citations" data="CMHormkAAAAJ:u5HHmVD_uO8C"></span>
 
 </div>
@@ -118,8 +114,7 @@ ECCV <span class="show_paper_citations" data="CMHormkAAAAJ:u5HHmVD_uO8C"></span>
 
 [COIN: A Large-scale Dataset for Comprehensive Instructional Video Analysis](https://openaccess.thecvf.com/content_CVPR_2019/html/Tang_COIN_A_Large-Scale_Dataset_for_Comprehensive_Instructional_Video_Analysis_CVPR_2019_paper.html)
 
-Yansong Tang, Dajun Ding, Yongming Rao, Yu Zheng, **Danyang Zhang**, Lili Zhao, Jiwen Lu, Jie Zhou
-
+Yansong Tang, Dajun Ding, Yongming Rao, Yu Zheng, **Danyang Zhang**, Lili Zhao, Jiwen Lu, Jie Zhou \\
 CVPR 2019 | [**Project**](https://coin-dataset.github.io/) <span class="show_paper_citations" data="CMHormkAAAAJ:u-x6o8ySG0sC"></span>
 
 </div>

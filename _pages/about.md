@@ -17,42 +17,132 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Ph.D. candidate at [X-Lance Lab](https://x-lance.sjtu.edu.cn/en),
+Shanghai Jiao Tong University, under supervision of [Prof. Kai
+Yu](https://x-lance.sjtu.edu.cn/en/members/kai_yu), majoring in computer
+science and technology. Before that, I received my B.S. degree from the
+Department of Automation, Tsinghua University in 2020.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest focuses on text-rich visual UI interaction. Currently, I'm
+working on constrution of realistic, complex interaction benchmark for GUI
+interaction. I'm also studying how to design smarter GUI agents with
+reinforcement learning (RL) and large language models (LLM), or by combining
+both.
+
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">NeurIPS 2023</div>
+            <img src='images/rememberer.png' alt="sym" width="100%">
+        </div>
+    </div>
+
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Large Language Models Are Semi-Parametric Reinforcement Learning Agents](https://openreview.net/forum?id=ZcJa1R6j3v)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Danyang Zhang, Lu Chen, Situo Zhang, Hongshen Xu, Zihan Zhao, Kai Yu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+NeurIPS 2023 | [**Code**](https://github.com/OpenDFM/Rememberer)
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
+- We designed Rememberer, a novel evolvable LLM-based agent framework, by
+  equipping the LLM with a long-term experience memory, so as to enable the LLM
+  to exploit the interaction experiences to improve performance.
+- We proposed Reinforcement Learning with Experience Memory (RLEM) to update
+  the memory, so that the agent can learn from both success and failure, and
+  evolve its capability without fine-tuning LLM parameters.
+- Rememberer demonstrates superior performance and robustness on both WebShop
+  and WikiHow task set.
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class="paper-box">
+    <div class="paper-box-image">
+        <div>
+            <img src="images/mobile-env.png" alt="sym" width="100%">
+        </div>
+    </div>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class="paper-box-text" markdown="1">
+
+[Mobile-Env: An Evaluation Platform and Benchmark for Interactive Agents in LLM Era](https://arxiv.org/abs/2305.08144)
+
+**Danyang Zhang**, Lu Chen, Zihan Zhao, Ruisheng Cao, Kai Yu
+
+[**Project**](https://github.com/X-LANCE/Mobile-Env) | [**Task Set**](https://huggingface.co/datasets/zdy023/WikiHow-taskset)
+
+We designed an easily-extensible, adaptable, and close-to-reality interaction
+platform based on Android Mobile.
+
+</div>
+</div>
+
+<div class="paper-box">
+<div class="paper-box-text" markdown="1">
+
+[WebSRC: A Dataset for Web-Based Structural Reading Comprehension](https://aclanthology.org/2021.emnlp-main.343/)
+
+Xingyu Chen, Zihan Zhao, Lu Chen, JiaBao Ji, **Danyang Zhang**, Ao Luo, Yuxuan Xiong, Kai Yu
+
+EMNLP 2021 | [**Project**](https://x-lance.github.io/WebSRC/) <span class="show_paper_citations" data="CMHormkAAAAJ:qjMakFHDy7sC"></span>
+
+</div>
+</div>
+
+<div class="paper-box">
+<div class="paper-box-text" markdown="1">
+
+[Rotation-robust Intersection over Union for 3D Object Detection](https://link.springer.com/chapter/10.1007/978-3-030-58565-5_28)
+
+Yu Zheng, **Danyang Zhang**, Sinan Xie, Jiwen Lu, Jie Zhou
+
+ECCV <span class="show_paper_citations" data="CMHormkAAAAJ:u5HHmVD_uO8C"></span>
+
+</div>
+</div>
+
+<div class="paper-box">
+<div class="paper-box-text" markdown="1">
+
+[COIN: A Large-scale Dataset for Comprehensive Instructional Video Analysis](https://openaccess.thecvf.com/content_CVPR_2019/html/Tang_COIN_A_Large-Scale_Dataset_for_Comprehensive_Instructional_Video_Analysis_CVPR_2019_paper.html)
+
+Yansong Tang, Dajun Ding, Yongming Rao, Yu Zheng, **Danyang Zhang**, Lili Zhao, Jiwen Lu, Jie Zhou
+
+CVPR 2019 | [**Project**](https://coin-dataset.github.io/) <span class="show_paper_citations" data="CMHormkAAAAJ:u-x6o8ySG0sC"></span>
+
+</div>
+</div>
+
+- [Learning from Temporal Spatial Cubism for Cross-Dataset Skeleton-based Action Recognition](https://dl.acm.org/doi/10.1145/3472722). Yansong Tang, Xingyu Liu, Xumin Yu, Danyang Zhang, Jiwen Lu, Jie Zhou. TOMM 2022.
+- [Uncertainty-Aware Score Distribution Learning for Action Quality Assessment](https://openaccess.thecvf.com/content_CVPR_2020/html/Tang_Uncertainty-Aware_Score_Distribution_Learning_for_Action_Quality_Assessment_CVPR_2020_paper.html). Yansong Tang, Zanlin Ni, Jiahuan Zhou, Danyang Zhang, Jiwen Lu, Ying Wu, Jie Zhou. CVPR 2020.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
+- *2020.9-(2025.6)*, Ph.D., SEIEE, Shanghai Jiao Tong University
+- *2016.8-2020.6*, B.S., Department of Automation, Tsinghua University
+
+# 🎖 Honors and Awards
+
+- *2020.9-2025.6* The 2nd Wu Wenjun AI Honorary Doctoral Progam
+- *2020.9-2025.6* Zhang Xu Scholarship
+- *2018.10*, Academic Excellence Scholarship 2017~2018
+- *2017.10*, Academic Excellence Scholarship 2017~2018
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->

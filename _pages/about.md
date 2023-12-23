@@ -106,8 +106,8 @@ platform based on Android Mobile.
 
 # 🎖 Honors and Awards
 
-- *2020.9-2025.6* The 2nd Wu Wenjun AI Honorary Doctoral Progam
-- *2020.9-2025.6* Zhang Xu Scholarship
+- *2020.9-2025.6*, The 2nd Wu Wenjun AI Honorary Doctoral Progam
+- *2020.9-2025.6*, Zhang Xu Scholarship
 - *2018.10*, Academic Excellence Scholarship 2017~2018
 - *2017.10*, Academic Excellence Scholarship 2017~2018
 

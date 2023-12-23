@@ -50,7 +50,7 @@ both.
 
 [Large Language Models Are Semi-Parametric Reinforcement Learning Agents](https://openreview.net/forum?id=ZcJa1R6j3v)
 
-**Danyang Zhang, Lu Chen, Situo Zhang, Hongshen Xu, Zihan Zhao, Kai Yu \\
+**Danyang Zhang**, Lu Chen, Situo Zhang, Hongshen Xu, Zihan Zhao, Kai Yu \\
 NeurIPS 2023 | [**Code**](https://github.com/OpenDFM/Rememberer)
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->

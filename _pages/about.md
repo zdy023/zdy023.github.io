@@ -98,7 +98,7 @@ EMNLP 2021 | [**Project**](https://x-lance.github.io/WebSRC/) <span class="show_
 
 <div class="paper-box" markdown="1">
 
-[Rotation-robust Intersection over Union for 3D Object Detection](https://link.springer.com/chapter/10.1007/978-3-030-58565-5_28) \\
+[Rotation-robust Intersection over Union for 3D Object Detection](https://link.springer.com/chapter/10.1007/978-3-030-58565-5_28)<br>
 
 Yu Zheng, **Danyang Zhang**, Sinan Xie, Jiwen Lu, Jie Zhou \\
 ECCV <span class="show_paper_citations" data="CMHormkAAAAJ:u5HHmVD_uO8C"></span>

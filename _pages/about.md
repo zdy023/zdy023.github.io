@@ -70,7 +70,7 @@ NeurIPS 2023 | [**Code**](https://github.com/OpenDFM/Rememberer)
 <div class="paper-box">
     <div class="paper-box-image">
         <div>
-            <img src="images/Mobile-Env-Platform.pdf" alt="Mobile-Env" width="100%">
+            <img src="images/Mobile-Env-Platform.png" alt="Mobile-Env" width="100%">
         </div>
     </div>
 

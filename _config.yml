@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Danayng Zhang"
+title                    : "Danyang Zhang"
 description              : "Ph.D. candidate @SJTU X-Lance, researching automatic GUI agents."
 repository               : "zdy023/zdy023.github.io"
 google_scholar_stats_use_cdn : true

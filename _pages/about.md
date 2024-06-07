@@ -21,7 +21,10 @@ I am a Ph.D. candidate at [X-Lance Lab](https://x-lance.sjtu.edu.cn/en),
 Shanghai Jiao Tong University, under supervision of [Prof. Kai
 Yu](https://x-lance.sjtu.edu.cn/en/members/kai_yu), majoring in computer
 science and technology. Before that, I received my B.S. degree from the
-Department of Automation, Tsinghua University in 2020.
+Department of Automation, Tsinghua University in 2020. In the first four months
+of 2024, I worked as a research assisstant with [Prof. Tao
+Yu](https://taoyds.github.io/) at [XLANG Lab](https://www.xlang.ai/), the
+University of Hong Kong.
 
 My research interest focuses on text-rich visual UI interaction. Currently, I'm
 working on constrution of realistic, complex interaction benchmark for GUI

@@ -19,12 +19,11 @@ redirect_from:
 
 I am a Ph.D. candidate at [X-Lance Lab](https://x-lance.sjtu.edu.cn/en),
 Shanghai Jiao Tong University, under supervision of [Prof. Kai
-Yu](https://x-lance.sjtu.edu.cn/en/members/kai_yu), majoring in computer
-science and technology. Before that, I received my B.S. degree from the
-Department of Automation, Tsinghua University in 2020. In the first four months
-of 2024, I worked as a research assisstant with [Prof. Tao
-Yu](https://taoyds.github.io/) at [XLANG Lab](https://www.xlang.ai/), the
-University of Hong Kong.
+Yu](https://x-lance.github.io/kaiyu/), majoring in computer science and
+technology. Before that, I received my B.S. degree from the Department of
+Automation, Tsinghua University in 2020. In the first four months of 2024, I
+worked as a research assisstant with [Prof. Tao Yu](https://taoyds.github.io/)
+at [XLANG Lab](https://www.xlang.ai/), the University of Hong Kong.
 
 My research interest focuses on text-rich visual UI interaction. Currently, I'm
 working on constrution of realistic, complex interaction benchmark for GUI
@@ -97,7 +96,7 @@ platform based on Android Mobile.
 
 <div class="paper-box-text" markdown="1">
 
-[OSWORLD: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/abs/2404.07972)
+[OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/abs/2404.07972)
 
 Tianbao Xie, **Danyang Zhang**, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu \\
 [**Project**](https://os-world.github.io/) | [**Code**](https://github.com/xlang-ai/OSWorld)

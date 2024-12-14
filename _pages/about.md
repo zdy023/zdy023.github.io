@@ -99,7 +99,7 @@ platform based on Android Mobile.
 [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/abs/2404.07972)
 
 Tianbao Xie, **Danyang Zhang**, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu \\
-[**Project**](https://os-world.github.io/) | [**Code**](https://github.com/xlang-ai/OSWorld)
+NeurIPS 2024 D&B Track | [**Project**](https://os-world.github.io/) | [**Code**](https://github.com/xlang-ai/OSWorld)
 
 We designed a unified interaction benchmark for real-world desktop tasks.
 

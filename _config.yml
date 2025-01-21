@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : '%E4%B8%B9%E9%98%B3-%E5%BC%A0-b62931182' # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : https://orcid.org/0009-0001-4958-5017 # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

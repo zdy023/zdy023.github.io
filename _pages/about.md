@@ -50,7 +50,7 @@ both.
 
 <div class='paper-box-text' markdown="1">
 
-[Large Language Models Are Semi-Parametric Reinforcement Learning Agents](https://openreview.net/forum?id=ZcJa1R6j3v)
+[Large Language Models Are Semi-Parametric Reinforcement Learning Agents](https://papers.nips.cc/paper_files/paper/2023/hash/f6b22ac37beb5da61efd4882082c9ecd-Abstract-Conference.html)
 
 **Danyang Zhang**, Lu Chen, Situo Zhang, Hongshen Xu, Zihan Zhao, Kai Yu \\
 NeurIPS 2023 | [**Code**](https://github.com/OpenDFM/Rememberer)
@@ -91,12 +91,15 @@ platform based on Android Mobile.
 
 <div class="paper-box">
     <div class="paper-box-image">
-        <div><img src="images/osworld.png" alt="OSWorld" width="100%"></div>
+        <div>
+            <div class="badge">NeurIPS 2024</div>
+            <img src="images/osworld.png" alt="OSWorld" width="100%">
+        </div>
     </div>
 
 <div class="paper-box-text" markdown="1">
 
-[OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/abs/2404.07972)
+[OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://papers.nips.cc/paper_files/paper/2024/hash/5d413e48f84dc61244b6be550f1cd8f5-Abstract-Datasets_and_Benchmarks_Track.html)
 
 Tianbao Xie, **Danyang Zhang**, Jixuan Chen, Xiaochuan Li, Siheng Zhao, Ruisheng Cao, Toh Jing Hua, Zhoujun Cheng, Dongchan Shin, Fangyu Lei, Yitao Liu, Yiheng Xu, Shuyan Zhou, Silvio Savarese, Caiming Xiong, Victor Zhong, Tao Yu \\
 NeurIPS 2024 D&B Track | [**Project**](https://os-world.github.io/) | [**Code**](https://github.com/xlang-ai/OSWorld)
@@ -106,6 +109,9 @@ We designed a unified interaction benchmark for real-world desktop tasks.
 </div>
 </div>
 
+- [Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?](https://papers.nips.cc/paper_files/paper/2024/hash/c2f71567cd53464161cab3336e8fc865-Abstract-Datasets_and_Benchmarks_Track.html)<br>
+  Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, Hongcheng Gao, Xinzhuang Xiong, Hanchong Zhang, Wenjing Hu, Yuchen Mao, Tianbao Xie, Hongshen Xu, **Danyang Zhang**, Sida I. Wang, Ruoxi Sun, Pengcheng Yin, Caiming Xiong, Ansong Ni, Qian Liu, Victor Zhong, Lu Chen, Kai Yu, Tao Yu.<br>
+  NeurIPS 2024 D&B Track | [**Project**](https://spider2-v.github.io/) <span class="show_paper_citations" data="CMHormkAAAAJ:zYLM7Y9cAGgC"></span>
 - [WebSRC: A Dataset for Web-Based Structural Reading Comprehension](https://aclanthology.org/2021.emnlp-main.343/)<br>
   Xingyu Chen, Zihan Zhao, Lu Chen, JiaBao Ji, **Danyang Zhang**, Ao Luo, Yuxuan Xiong, Kai Yu<br>
   EMNLP 2021 | [**Project**](https://x-lance.github.io/WebSRC/) <span class="show_paper_citations" data="CMHormkAAAAJ:qjMakFHDy7sC"></span>
@@ -115,6 +121,7 @@ We designed a unified interaction benchmark for real-world desktop tasks.
 - [COIN: A Large-scale Dataset for Comprehensive Instructional Video Analysis](https://openaccess.thecvf.com/content_CVPR_2019/html/Tang_COIN_A_Large-Scale_Dataset_for_Comprehensive_Instructional_Video_Analysis_CVPR_2019_paper.html)<br>
   Yansong Tang, Dajun Ding, Yongming Rao, Yu Zheng, **Danyang Zhang**, Lili Zhao, Jiwen Lu, Jie Zhou<br>
   CVPR 2019 | [**Project**](https://coin-dataset.github.io/) <span class="show_paper_citations" data="CMHormkAAAAJ:u-x6o8ySG0sC"></span>
+- [ChemDFM-X: Towards Large Multimodal Model for Chemistry](https://link.springer.com/article/10.1007/s11432-024-4243-0). Zihan Zhao, Bo Chen, Jingpiao Li, Lu Chen, Liyang Wen, Pengyu Wang, Zichen Zhu, **Danyang Zhang**, Ziping Wan, Yansi Li, Zhongyang Dai, Xin Chen, Kai Yu. SCIS 2024.
 - [Technical Report of MoGUI and MoCon](https://huggingface.co/datasets/OpenDFM/MoCon/blob/main/MoGUI_Paper_v0.1.pdf). Zichen Zhu, Liangtai Sun, Danyang Zhang, Ziyuan Li, Guangpeng Li, Lu Chen, Kai Yu.
 - [Learning from Temporal Spatial Cubism for Cross-Dataset Skeleton-based Action Recognition](https://dl.acm.org/doi/10.1145/3472722). Yansong Tang, Xingyu Liu, Xumin Yu, Danyang Zhang, Jiwen Lu, Jie Zhou. TOMM 2022.
 - [Uncertainty-Aware Score Distribution Learning for Action Quality Assessment](https://openaccess.thecvf.com/content_CVPR_2020/html/Tang_Uncertainty-Aware_Score_Distribution_Learning_for_Action_Quality_Assessment_CVPR_2020_paper.html). Yansong Tang, Zanlin Ni, Jiahuan Zhou, Danyang Zhang, Jiwen Lu, Ying Wu, Jie Zhou. CVPR 2020.

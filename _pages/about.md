@@ -130,7 +130,7 @@ We designed a unified interaction benchmark for real-world desktop tasks.
 
 # 📖 Educations
 
-- *2020.9-(2025.6)*, Ph.D., SEIEE, Shanghai Jiao Tong University
+- *2020.9-(2025.6)*, Ph.D., School of Computer Science, Shanghai Jiao Tong University
 - *2016.8-2020.6*, B.S., Department of Automation, Tsinghua University
 
 # 🎖 Honors and Awards

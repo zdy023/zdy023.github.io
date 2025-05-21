@@ -123,10 +123,10 @@ We designed a unified interaction benchmark for real-world desktop tasks.
   CVPR 2019 | [**Project**](https://coin-dataset.github.io/) <span class="show_paper_citations" data="CMHormkAAAAJ:u-x6o8ySG0sC"></span>
 - [MobA: Multifaceted Memory-Enhanced Adaptive Planning for Efficient Mobile Task Automation](https://aclanthology.org/2025.naacl-demo.43/). Zichen Zhu, Hao Tang, Yansi Li, Dingye Liu, Hongshen Xu, Kunyao Lan, **Danyang Zhang**, Yixuan Jiang, Hao Zhou, Chenrun Wang, Situo Zhang, Liangtai Sun, Yixiao Wang, Yuheng Sun, Lu Chen, Kai Yu. NAACL 2025 Demo.
 - [ChemDFM-X: Towards Large Multimodal Model for Chemistry](https://link.springer.com/article/10.1007/s11432-024-4243-0). Zihan Zhao, Bo Chen, Jingpiao Li, Lu Chen, Liyang Wen, Pengyu Wang, Zichen Zhu, **Danyang Zhang**, Ziping Wan, Yansi Li, Zhongyang Dai, Xin Chen, Kai Yu. SCIS 2024.
-- [Technical Report of MoGUI and MoCon](https://huggingface.co/datasets/OpenDFM/MoCon/blob/main/MoGUI_Paper_v0.1.pdf). Zichen Zhu, Liangtai Sun, Danyang Zhang, Ziyuan Li, Guangpeng Li, Lu Chen, Kai Yu.
+- [Technical Report of MoGUI and MoCon](https://huggingface.co/datasets/OpenDFM/MoCon/blob/main/MoGUI_Paper_v0.1.pdf). Zichen Zhu, Liangtai Sun, **Danyang Zhang**, Ziyuan Li, Guangpeng Li, Lu Chen, Kai Yu.
 - [CAM-GUI: A Conversational Assistant on Mobile GUI](https://link.springer.com/chapter/10.1007/978-981-97-0601-3_26). Zichen Zhu, Liangtai Sun, Jingkai Yang, Yifan Peng, Weilin Zou, Ziyuan Li, Wutao Li, Lu Chen, Yingzi Ma, **Danyang Zhang**, Shuai Fan, Kai Yu. NCMMSC 2023.
-- [Learning from Temporal Spatial Cubism for Cross-Dataset Skeleton-based Action Recognition](https://dl.acm.org/doi/10.1145/3472722). Yansong Tang, Xingyu Liu, Xumin Yu, Danyang Zhang, Jiwen Lu, Jie Zhou. TOMM 2022.
-- [Uncertainty-Aware Score Distribution Learning for Action Quality Assessment](https://openaccess.thecvf.com/content_CVPR_2020/html/Tang_Uncertainty-Aware_Score_Distribution_Learning_for_Action_Quality_Assessment_CVPR_2020_paper.html). Yansong Tang, Zanlin Ni, Jiahuan Zhou, Danyang Zhang, Jiwen Lu, Ying Wu, Jie Zhou. CVPR 2020.
+- [Learning from Temporal Spatial Cubism for Cross-Dataset Skeleton-based Action Recognition](https://dl.acm.org/doi/10.1145/3472722). Yansong Tang, Xingyu Liu, Xumin Yu, **Danyang Zhang**, Jiwen Lu, Jie Zhou. TOMM 2022.
+- [Uncertainty-Aware Score Distribution Learning for Action Quality Assessment](https://openaccess.thecvf.com/content_CVPR_2020/html/Tang_Uncertainty-Aware_Score_Distribution_Learning_for_Action_Quality_Assessment_CVPR_2020_paper.html). Yansong Tang, Zanlin Ni, Jiahuan Zhou, **Danyang Zhang**, Jiwen Lu, Ying Wu, Jie Zhou. CVPR 2020.
 
 # 📖 Educations
 
